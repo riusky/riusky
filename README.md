@@ -1,40 +1,40 @@
 # Riusky
 
-Riusky is a project dedicated to learning and exploring various modern web development technologies. This repository includes examples, experiments, and studies related to:
+Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓库包含与以下技术相关的示例和实验：
 
-- **Rust**: A systems programming language focused on safety and performance.
-- **RustWeb**: Web development with Rust, using frameworks like Actix and Rocket.
-- **Tauri**: A framework for building tiny, fast, and secure desktop applications with Rust.
-- **Vue**: A progressive JavaScript framework for building user interfaces.
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine.
-- **Nuxt.js**: A framework for creating universal Vue.js applications.
+- **Rust**：一种注重安全性和性能的系统级编程语言。
+- **RustWeb**：使用 Rust 进行 Web 开发，使用框架如 Actix 和 Rocket。
+- **Tauri**：利用 Rust 构建轻量级且安全的桌面应用的框架。
+- **Vue**：用于构建用户界面的渐进式 JavaScript 框架。
+- **Node.js**：基于 Chrome V8 引擎的 JavaScript 运行时。
+- **Nuxt.js**：用于创建通用 Vue.js 应用的框架。
 
-## Structure
+## 仓库结构
 
-The repository is organized into different directories, each representing a specific technology or a combination of them:
+仓库分为多个目录，每个目录专注于特定技术：
 
-- `rust/`: Contains Rust-based projects and experiments.
-- `rustweb/`: Projects focused on web development using Rust.
-- `tauri/`: Examples and studies related to building desktop apps with Tauri.
-- `vue/`: Vue.js projects and component experiments.
-- `nodejs/`: Projects built with Node.js, including backend and full-stack examples.
-- `nuxt/`: Nuxt.js applications and studies.
+- `rust/`：Rust 项目和实验。
+- `rustweb/`：基于 Rust 进行 Web 开发的项目。
+- `tauri/`：使用 Tauri 开发桌面应用的示例。
+- `vue/`：Vue.js 组件和项目。
+- `nodejs/`：使用 Node.js 构建的后端和全栈示例。
+- `nuxt/`：Nuxt.js 项目和学习成果。
 
-## Getting Started
+## 快速开始
 
-Each directory contains its own README with instructions on how to set up and run the specific projects.
+每个目录都包含一个 README 文件，提供具体项目的设置和运行说明。
 
-### Prerequisites
+### 前置条件
 
-- **Rust**: Install from [rust-lang.org](https://www.rust-lang.org/).
-- **Node.js**: Install from [nodejs.org](https://nodejs.org/).
-- **Vue CLI**: Install via npm: `npm install -g @vue/cli`.
-- **Tauri CLI**: Install via Cargo: `cargo install tauri-cli`.
+- **Rust**：[rust-lang.org](https://www.rust-lang.org/) 下载。
+- **Node.js**：[nodejs.org](https://nodejs.org/) 下载。
+- **Vue CLI**：通过 npm 安装：`npm install -g @vue/cli`。
+- **Tauri CLI**：通过 Cargo 安装：`cargo install tauri-cli`。
 
-## Contributions
+## 贡献
 
-This project is open for contributions, especially for those interested in the technologies mentioned above. Feel free to fork the repository, make your changes, and submit a pull request.
+欢迎贡献！如果你对这些技术感兴趣，欢迎 fork 本仓库，进行修改并提交 PR。
 
-## License
+## 许可证
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+本项目基于 MIT 许可证进行授权。详情请参见 [LICENSE](LICENSE) 文件。
