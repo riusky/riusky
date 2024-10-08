@@ -54,6 +54,10 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-simulator.png)
 
+## Riusky - 个人精选博客
+- [基于注解+lamda实现策略模式](https://www.cnblogs.com/riusky/p/16530793.html)
+- [PGSQL按照时间序列向下补齐数据](https://blog.csdn.net/weixin_39939973/article/details/107911940)
+
 ## 贡献
 
 欢迎贡献！如果你对这些技术感兴趣，欢迎 fork 本仓库，进行修改并提交 PR。
