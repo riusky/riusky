@@ -40,6 +40,8 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
 
+![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-simulator.png)
+
 ## 贡献
 
 欢迎贡献！如果你对这些技术感兴趣，欢迎 fork 本仓库，进行修改并提交 PR。
