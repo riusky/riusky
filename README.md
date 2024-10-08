@@ -38,6 +38,7 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 
 [DICOM-SIMULATOR-DESKTOP-APP](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP) 该项目是使用 `rust python vue` 编写的一个桌面软件，支持HL7消息发送，MPPS，C-STORE等功能。
 
+![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
 
 ## 贡献
 
