@@ -4,6 +4,8 @@
 
 > mail: riusky@163.com
 
+![](./7797B76B7CD1392E21255E1FED4D27A6.png)
+
 ## 技能
 
 - **编程语言及框架**: Rust, Python, JavaScript, Tauri, Vue.js, Node.js, Nuxt.js, Java (Spring MVC, Spring Boot), MyBatis
