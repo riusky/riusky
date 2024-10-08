@@ -20,16 +20,24 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 - `nodejs/`：使用 Node.js 构建的后端和全栈示例。
 - `nuxt/`：Nuxt.js 项目和学习成果。
 
-## 快速开始
+## 项目介绍
 
-每个目录都包含一个 README 文件，提供具体项目的设置和运行说明。
+### HL7-Tools
 
-### 前置条件
+[hl7-tools](https://github.com/riusky/HL7-Tools) 该项目是 `tauri1.0 + vue3 + rust` 编写的一个跨平台的桌面端软件，用于医疗行业的HL7消息发送。
 
-- **Rust**：[rust-lang.org](https://www.rust-lang.org/) 下载。
-- **Node.js**：[nodejs.org](https://nodejs.org/) 下载。
-- **Vue CLI**：通过 npm 安装：`npm install -g @vue/cli`。
-- **Tauri CLI**：通过 Cargo 安装：`cargo install tauri-cli`。
+### dicom-device-simulator
+
+[dicom-device-simulator](https://github.com/riusky/dicom-device-simulator) 该项目是使用 `python` 编写的一个终端程序工具，用于医疗行业的 `DICOM` 消息发送。
+
+### Hi-tools-server
+
+[Hi-tools-server](https://github.com/riusky/Hi-tools-server) 该项目是使用 `rust axum` 框架编写的一个web服务器，增加了 `rsa` 等接口加密措施。
+
+### DICOM-SIMULATOR-DESKTOP-APP
+
+[DICOM-SIMULATOR-DESKTOP-APP](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP) 该项目是使用 `rust python vue` 编写的一个桌面软件，支持HL7消息发送，MPPS，C-STORE等功能。
+
 
 ## 贡献
 
