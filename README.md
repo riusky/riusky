@@ -1,5 +1,14 @@
 # Riusky
 
+关于我:
+
+## 技能
+
+- **编程语言及框架**: Rust, Python, JavaScript, Tauri, Vue.js, Node.js, Nuxt.js, Java (Spring MVC, Spring Boot), MyBatis
+- **Web开发**: 使用现代框架和技术构建可扩展的Web应用程序。
+- **数据库**: PostgreSQL, MySQL, SurrealDB, Redis
+- **工具和平台**: Git, Linux, Docker
+
 Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓库包含与以下技术相关的示例和实验：
 
 - **Rust**：一种注重安全性和性能的系统级编程语言。
@@ -9,38 +18,34 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 - **Node.js**：基于 Chrome V8 引擎的 JavaScript 运行时。
 - **Nuxt.js**：用于创建通用 Vue.js 应用的框架。
 
-## 仓库结构
+## Riusky – 个人项目
 
-仓库分为多个目录，每个目录专注于特定技术：
-
-- `rust/`：Rust 项目和实验。
-- `rustweb/`：基于 Rust 进行 Web 开发的项目。
-- `tauri/`：使用 Tauri 开发桌面应用的示例。
-- `vue/`：Vue.js 组件和项目。
-- `nodejs/`：使用 Node.js 构建的后端和全栈示例。
-- `nuxt/`：Nuxt.js 项目和学习成果。
-
-## 项目介绍
+- 开发了一系列专注于现代Web开发技术的个人项目，包括Rust, Vue和Tauri。
+- 展示了对多种框架和环境的适应能力。
 
 ### HL7-Tools
 
-[hl7-tools](https://github.com/riusky/HL7-Tools) 该项目是 `tauri1.0 + vue3 + rust` 编写的一个跨平台的桌面端软件，用于医疗行业的HL7消息发送。
+- 使用Tauri 1.0, Vue 3和Rust构建了一个跨平台的桌面应用，专为医疗行业的HL7消息发送设计。  
+  [GitHub仓库](https://github.com/riusky/HL7-Tools)
 
 ![](https://github.com/riusky/HL7-Tools/blob/master/HL7_mess.png)
 
 ### dicom-device-simulator
 
-[dicom-device-simulator](https://github.com/riusky/dicom-device-simulator) 该项目是使用 `python` 编写的一个终端程序工具，用于医疗行业的 `DICOM` 消息发送。
+- 使用Python创建了一个用于发送医疗行业DICOM消息的终端工具。  
+  [GitHub仓库](https://github.com/riusky/dicom-device-simulator)
 
 ![](https://github.com/riusky/dicom-device-simulator/blob/main/images/mpps1.png)
 
 ### Hi-tools-server
 
-[Hi-tools-server](https://github.com/riusky/Hi-tools-server) 该项目是使用 `rust axum` 框架编写的一个web服务器，增加了 `rsa` 等接口加密措施。
+- 用Rust的Axum框架实现了一个Web服务器，并增强了RSA等接口加密措施。  
+  [GitHub仓库](https://github.com/riusky/Hi-tools-server)
 
 ### DICOM-SIMULATOR-DESKTOP-APP
 
-[DICOM-SIMULATOR-DESKTOP-APP](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP) 该项目是使用 `rust python vue` 编写的一个桌面软件，支持HL7消息发送，MPPS，C-STORE等功能。
+- 开发了一个整合Rust, Python和Vue的桌面应用，支持HL7消息发送、MPPS、C-STORE等功能。  
+  [GitHub仓库](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP)
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
 
