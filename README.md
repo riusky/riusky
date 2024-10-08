@@ -4,7 +4,6 @@
 
 > mail: riusky@163.com
 
-![](./7797B76B7CD1392E21255E1FED4D27A6.png)
 
 ## 技能
 
@@ -62,3 +61,5 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 ## 许可证
 
 本项目基于 MIT 许可证进行授权。详情请参见 [LICENSE](LICENSE) 文件。
+
+![](./7797B76B7CD1392E21255E1FED4D27A6.png)
