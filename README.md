@@ -26,9 +26,13 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 
 [hl7-tools](https://github.com/riusky/HL7-Tools) 该项目是 `tauri1.0 + vue3 + rust` 编写的一个跨平台的桌面端软件，用于医疗行业的HL7消息发送。
 
+![](https://github.com/riusky/HL7-Tools/blob/master/HL7_mess.png)
+
 ### dicom-device-simulator
 
 [dicom-device-simulator](https://github.com/riusky/dicom-device-simulator) 该项目是使用 `python` 编写的一个终端程序工具，用于医疗行业的 `DICOM` 消息发送。
+
+![](https://github.com/riusky/dicom-device-simulator/blob/main/images/mpps1.png)
 
 ### Hi-tools-server
 
