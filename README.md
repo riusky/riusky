@@ -31,7 +31,7 @@ Riusky 是一个专注于探索现代 Web 开发技术的个人项目。本仓�
 - 使用Tauri 2.0, Vue 3, shadcn-vue 和Rust构建了一个跨平台的桌面应用，专为教育行业设计的桌面程序。  
   [GitHub仓库](https://github.com/riusky/OceanKiteEducation)
 
-![](https://github.com/riusky/OceanKiteEducation/master/readme/intro2.png)
+![](https://github.com/riusky/OceanKiteEducation/blob/master/readme/intro1.png)
 
 ### HL7-Tools
 
