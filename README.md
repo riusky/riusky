@@ -4,7 +4,7 @@
 
 | 个人信息         | 内容                         |
 |------------------|------------------------------|
-| 姓名             | Riusky                       |
+| 姓名             | 汪洋                       |
 | 年龄             | 28岁                         |
 | 出生日期          | 1996-12-12                  |
 | 学校             | 齐齐哈尔大学（计算机科学专业）    |
@@ -72,7 +72,7 @@
   - 在线课程管理和日程安排。
   - 多平台支持，包括Windows、macOS和Linux。
 - **技术栈**: Rust, Vue.js, Electron, Typescript
-- [GitHub 仓库](https://github.com/riusky/OceanKiteEducation)
+- [GitHub 仓库: https://github.com/riusky/OceanKiteEducation](https://github.com/riusky/OceanKiteEducation)
 
 ![](https://github.com/riusky/OceanKiteEducation/blob/master/readme/intro1.png)
 
@@ -83,7 +83,7 @@
   - 实现了可视化的消息构建与发送流程。
   - 提供日志记录和错误检测功能，确保数据交换的准确性。
 - **技术栈**: Rust, Vue.js, HTTP APIs
-- [GitHub 仓库](https://github.com/riusky/HL7-Tools)
+- [GitHub 仓库: https://github.com/riusky/HL7-Tools](https://github.com/riusky/HL7-Tools)
 
 ![](https://github.com/riusky/HL7-Tools/blob/master/HL7_mess.png)
 
@@ -94,7 +94,7 @@
   - 提供详细的日志和状态反馈，确保数据交互的透明性。
   - 简洁易用的命令行界面，方便用户高效操作。
 - **技术栈**: Python, DICOM标准
-- [GitHub 仓库](https://github.com/riusky/dicom-device-simulator)
+- [GitHub 仓库: https://github.com/riusky/dicom-device-simulator](https://github.com/riusky/dicom-device-simulator)
 
 ![](https://github.com/riusky/dicom-device-simulator/blob/main/images/mpps1.png)
 
@@ -105,7 +105,7 @@
   - 集成了OAuth2.0认证，提升了系统的安全性。
   - 监控与日志系统，帮助快速定位和排除故障。
 - **技术栈**: Rust, Axum, PostgreSQL 
-- [GitHub 仓库](https://github.com/riusky/Hi-tools-server)
+- [GitHub 仓库: https://github.com/riusky/Hi-tools-server](https://github.com/riusky/Hi-tools-server)
 
 ### DICOM模拟器桌面应用
 - **项目概述**: 开发的整合Rust、Python和Vue的桌面应用，支持HL7消息发送、MPPS以及C-STORE等功能。该应用为医疗领域的PACS开发人员提供了深入的测试支持，优化了DICOM标准的实现。
@@ -114,15 +114,15 @@
   - 用户友好的图形界面，简化了复杂的操作流程。
   - 集成测试环境，帮助开发人员快速验证设备的功能。
 - **技术栈**: Rust, surrealDB, Python, Vue, TailwindCSS, DaisyUI
-- [GitHub 仓库](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP)
+- [GitHub 仓库: https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP)
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-simulator.png)
 
 ## 博客精选
-- [基于注解 + lambda 实现策略模式](https://www.cnblogs.com/riusky/p/16530793.html)
-- [PGSQL按照时间序列向下补齐数据](https://blog.csdn.net/weixin_39939973/article/details/107911940)
+- [基于注解 + lambda 实现策略模式: https://www.cnblogs.com/riusky/p/16530793.html](https://www.cnblogs.com/riusky/p/16530793.html)
+- [PGSQL按照时间序列向下补齐数据: https://blog.csdn.net/weixin_39939973/article/details/107911940](https://blog.csdn.net/weixin_39939973/article/details/107911940)
 
 
 ## 请联系我！
