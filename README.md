@@ -8,7 +8,7 @@
 | 年龄             | 28岁                         |
 | 出生日期          | 1996-12-12                  |
 | 学校             | 齐齐哈尔大学（计算机科学专业）    |
-| 工作经验         | 4年金融数据开发，1年健康医疗开发 |
+| 工作经验         | 4年金融数据开发，2年健康医疗开发 |
 | 技术专长         | Java, Rust, Vue, Python, ObjectScript       |
 | 行业经验         | 教育行业、医疗行业、金融行业    |
 | 项目管理能力     | 是                            |
@@ -135,6 +135,25 @@
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
 
 ![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-simulator.png)
+
+
+### vue-ultimate-starter
+- **项目概述**: 基于 Vue 3 的现代化全功能开发模板，集成了最新的前端生态工具链（Vite 4、Pinia、Vue Router 4 等），提供开箱即用的企业级开发体验。包含国际化、状态管理、表单验证、可视化图表等完整解决方案，支持严格的代码规范与自动化测试。  
+- **关键功能**: 
+  - 高效开发：Vite 4 + Rolldown 构建，集成 unplugin 自动导入、组件按需加载。  
+  - 企业级架构：Pinia 状态管理 + Vue Query 数据同步 + Zod 类型安全验证。  
+  - 现代化 UI：内置 shadcn-vue 风格组件、Lucide 图标库、动画工具（AutoAnimate/Tailwind Animate）。  
+  - 严格质量管控：ESLint + Oxlint 双引擎校验，Vitest + Playwright 单元/E2E 测试。  
+
+- **技术栈**: 
+核心: Vue 3 + TypeScript + Vite 4  
+状态: Pinia + Vue Query  
+UI: Tailwind CSS + shadcn-vue + Lucide  
+工具链: Zod, ESLint, Prettier, Vitest, Playwright  
+
+- [GitHub 仓库: https://github.com/riusky/vue-ultimate-starter ]
+![](./image4.png)
+
 
 ## 博客精选 修改文档结构
 - [基于注解 + lambda 实现策略模式: https://www.cnblogs.com/riusky/p/16530793.html](https://www.cnblogs.com/riusky/p/16530793.html)
