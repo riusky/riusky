@@ -89,7 +89,7 @@
 - **技术栈**: Rust, Vue.js, Electron, Typescript
 - [GitHub 仓库: https://github.com/riusky/OceanKiteEducation](https://github.com/riusky/OceanKiteEducation)
 
-![](https://github.com/riusky/OceanKiteEducation/blob/master/readme/intro1.png)
+![](./intro1.png)
 
 ### HL7-Tools
 - **项目概述**: 开发了一个跨平台的桌面应用，旨在为医疗行业的HL7消息发送提供支持，使用Tauri 1.0、Vue 3和Rust。该工具使HL7数据交换更为高效，成功减少ETL操作时间30%。
@@ -100,7 +100,7 @@
 - **技术栈**: Rust, Vue.js, HTTP APIs
 - [GitHub 仓库: https://github.com/riusky/HL7-Tools](https://github.com/riusky/HL7-Tools)
 
-![](https://github.com/riusky/HL7-Tools/blob/master/HL7_mess.png)
+![](./HL7_mess.png)
 
 ### 桌面端DICOM设备模拟器(tauri + surrealdb + python)
 - **项目概述**: 使用Python创建的终端工具，可用于发送医疗行业DICOM消息，支持MPPS、C-STORE等多种功能。此工具成功协助医疗机构进行设备接入测试，提高了系统的互操作性。
@@ -112,7 +112,7 @@
 - **技术栈**: Python, DICOM标准
 - [GitHub 仓库: https://github.com/riusky/dicom-device-simulator](https://github.com/riusky/dicom-device-simulator)
 
-![](https://github.com/riusky/dicom-device-simulator/blob/main/images/mpps1.png)
+![](./mpps1.png)
 
 ### Hi-tools-server
 - **项目概述**: 使用Rust的Axum框架实现的高效Web服务器，增强了RSA等接口的加密措施，提高了系统安全性。该服务器专为处理高并发请求而设计，支持实时数据处理。
@@ -132,9 +132,9 @@
 - **技术栈**: Rust, surrealDB, Python, Vue, TailwindCSS, DaisyUI
 - [GitHub 仓库: https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP)
 
-![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-interface.png)
+![](./dicom-interface.png)
 
-![](https://github.com/riusky/DICOM-SIMULATOR-DESKTOP-APP/blob/main/dicom-simulator.png)
+![](./dicom-simulator.png)
 
 
 ### vue-ultimate-starter
@@ -162,4 +162,4 @@ UI: Tailwind CSS + shadcn-vue + Lucide
 
 ## 请联系我！
 
-![]([./7797B76B7CD1392E21255E1FED4D27A6.png](https://github.com/riusky/riusky/blob/main/7797B76B7CD1392E21255E1FED4D27A6.png))
+![](./7797B76B7CD1392E21255E1FED4D27A6.png)
